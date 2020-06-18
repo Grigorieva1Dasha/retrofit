@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrifit</string>
+    <array name="type">
+        <item>all</item>
+        <item>photo</item>
+        <item>vector</item>
+        <item>illustration</item>
+    </array>
+</resources>
